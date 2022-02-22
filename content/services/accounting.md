@@ -1,57 +1,28 @@
 ---
-title: 'Accounting'
-date: 2018-11-18T12:33:46+10:00
-icon: 'services/service-icon-1.png'
+title: 'Childhood Cancer'
+date: 2022-02-21T19:17:46+10:00
+icon: 'causes/LCI_CauseArea_Icons_childhoodcancer.png'
 draft: false
 featured: true
 weight: 1
-heroHeading: 'Accounting'
-heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
-heroBackground: 'services/service1.jpg'
+heroHeading: 'Childhood Cancer'
+heroSubHeading: 'We provide support for the needs of children and families affected by childhood cancer'
+heroBackground: 'causes/childhood-cancer.png'
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Lions and Leos provide support for the needs of children and families affected by childhood cancer through impactful service activities.
 
-## Ne verba patulosque numen vix libet
+## Childhood Cancer Facts
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+  - Cancer is a leading cause of death for children and adolescents around the world.
+- Approximately 300,000 children aged 0 to 19 years old are diagnosed with cancer each year.
+- Childhood cancer generally cannot be prevented or screened.
+- In 2019, only 20% of countries had early detection guidelines. That same year, only 33% had a defined referral system for medical resources.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+## We Have a Plan
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+**_Lions and Leos help children and families_** increase acts of support to families and children affected by childhood cancer.
 
-## Postquam tamen
+**_Lions and Leos help communities_** improve diagnostics, treatment, and continued care to those affected by childhood cancer.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+**_Lions and Leos help the world_** increase awareness for childhood cancer as a global priority.
