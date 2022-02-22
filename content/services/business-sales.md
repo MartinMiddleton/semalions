@@ -1,53 +1,24 @@
 ---
-title: 'Business Sales'
-date: 2018-11-28T15:15:26+10:00
-icon: 'services/service-icon-3.png'
+title: 'Environment'
+date: 2022-02-21T20:45:00+00:00
+icon: 'causes/LCI_CauseArea_Icons_environment.png'
 featured: true
 draft: false
-heroHeading: 'Business Sales'
-heroSubHeading: 'We can help value your business and prepare it for sale.'
-heroBackground: 'services/service1.jpg'
+heroHeading: 'Environment'
+heroSubHeading: 'Our environment is more than a background: it’s our home.'
+heroBackground: 'causes/environment.png'
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+The earth sustains human life. We’ve seen how our stewardship of natural resources can improve quality of life and increase engagement in our local communities. Our environment is more than a background: it’s our home. And we’re committed to caring for it.
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+## Environment Facts
+- There are more than 3 trillion trees in the world
+- 30% of the world’s land area is covered by forest
+- More than 15 billion trees are cut down every year
+- 46% Estimated global decrease in tree count since the start of human civilization
 
-## Geniti facinus praeruptam atris ab manus in
+## We Have a Plan
+Lions and Leos serve to strengthen the relationship between the community and its environment. We’ve seen how our stewardship of natural resources can improve quality of life and increase engagement in our local communities.
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
-
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
-
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
-
-## Vidit si probetne vertitur
-
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
-
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
-
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+## Our Strategic Objective
+Sustainably protect and restore our environment to improve the well-being of all communities.

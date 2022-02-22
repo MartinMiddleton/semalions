@@ -14,7 +14,7 @@ Lions and Leos provide support for the needs of children and families affected b
 
 ## Childhood Cancer Facts
 
-  - Cancer is a leading cause of death for children and adolescents around the world.
+- Cancer is a leading cause of death for children and adolescents around the world.
 - Approximately 300,000 children aged 0 to 19 years old are diagnosed with cancer each year.
 - Childhood cancer generally cannot be prevented or screened.
 - In 2019, only 20% of countries had early detection guidelines. That same year, only 33% had a defined referral system for medical resources.

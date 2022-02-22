@@ -1,50 +1,31 @@
 ---
-title: 'Tax Filing'
-date: 2018-11-18T12:33:46+10:00
-icon: 'services/service-icon-6.png'
+title: 'Youth'
+date: 2022-02-21T22:17:00+10:00
+icon: 'causes/LCIF_Icon_Youth.png'
 draft: false
 featured: true
 weight: 2
-heroHeading: 'Tax Filing '
-heroSubHeading: 'Preparing and filing your tax return'
-heroBackground: 'services/service2.jpg'
+heroHeading: 'Youth'
+heroSubHeading: 'Lions improve access to quality education, vital health services, and positive youth development for young people around the world.'
+heroBackground: 'causes/youth.png'
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+Lions improve access to quality education, vital health services, and positive youth development for young people around the world. Lions Quest, LCIF’s signature youth education program, is a social emotional learning curriculum which gives students the skills to navigate life and prevent bullying and substance abuse.
 
-- Nata perque
-- Et ferrugine laedam
-- Cedere tandem Atlante maiestas Italicis ut forma
+## Global Statistics
 
-Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum
-precor facitote nubemque. Potuit Celadon Martem?
+- 1 in 3 students reports being cyberbullied; 20% report skipping school because of it or violence.
+- 2 in 3 students in 160 countries worry about violence in and around schools.
+- Reading scores and bullying are directly correlated.
+- Schools with positive school climate practices like Lions Quest have lower rates of absenteeism and bullying.
 
-1. Imagine Assaracus victori petet femina mea haustos
-2. Sicaniam quibus agro magni
-3. In utque Troica pedum caelestia hunc tempto
-4. Gregibus certare tamen turbatque qui
+## What Young People Learn in Lions Quest
 
-## Patulis Veneris est expulit adversaque magnum mediaque
+The National Association of Colleges and Employers (NACE) recently published the results of a survey of top employers outlining the skills desired in new college graduates. Likewise, the World Economic Forum identified the top skills needed for the jobs of the future. The most necessary and desired skills are not related to any STEM field or technical proficiency. Instead, they are competencies directly related to the social and emotional skills built by Lions Quest:
 
-Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit. Nimbi
-subversaque et micant suumque, tibi ipse; sed. **Deus quoque corpus**; Icarus,
-**mitescere**, ferro queat, porrigitur exiguas viridique mille quis latus
-quodque. Non una genuisse ullis efficiet ad corpore nunc mentesque praestant?
-
-_Diduxit manibus_ anguis contraxit, suas et lacus nec soceri fores alis nec,
-nec! Data pater Perseu minanti animam operitur illa dolorem.
-
-Cursus suis _amplectitur inbutum retractat_ te tempora [deducere
-mille](#miles-deceat-adunca) cessastis alatur primoque. Tridentigero super, hoc
-parsque; et equos quaeque, forte nostro ceciderat, ubi faciat traherent
-tetigere: induitur. Nectare quae saepe **equos cognoscere curvata** aptius; odit
-inde aurea caecus. Nova et arbor [postquam uncis sumptumque](#nondum-illuc)
-inquit ingeniosus quodam **Phasidos**, continui sensisse nemoris ante calcitrat
-siccatque frondes.
-
-Fugiunt madentes postis, tangit colorem raptores munera, ferox tueri postquam
-formosus servat potui. Luce ebur, pulcherrimus plus tradere! _Quam perque
-semper_?
+- Problem-solving and decision-making
+- Critical thinking and creativity
+- Ability to work in a team environment
+- Communications skills with people inside and outside an organization
+- Leadership and the ability to effectively motivate others
+- Strong work ethic and perseverance
