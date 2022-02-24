@@ -1,7 +1,7 @@
 ---
 title: 'Home'
-date: 2018-02-12T15:37:57+07:00
-heroHeading: 'Hero - Hugo Small Business Theme'
-heroSubHeading: 'Hero is a multipurpose Hugo theme with fullscreen hero images and fullwidth sections. It contains content types for a business or portfolio site.'
+date: 2022-02-22T22:37:00+05:00
+heroHeading: 'SouthEastern Massachusetts Lions'
+heroSubHeading: 'When you become a Lion, you become part of a global network of volunteers working together to make a difference.'
 heroBackground: 'images/jason-blackeye-1191801-unsplash.jpg'
 ---

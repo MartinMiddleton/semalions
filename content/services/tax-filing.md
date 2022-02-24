@@ -1,7 +1,7 @@
 ---
 title: 'Youth'
-date: 2022-02-21T22:17:00+10:00
-icon: 'causes/LCIF_Icon_Youth.png'
+date: 2022-02-22T23:11:00+5:00
+icon: 'causes/LCIF_Icon_youth.png'
 draft: false
 featured: true
 weight: 2
